@@ -1,0 +1,13 @@
+
+jupyter
+numpy
+scipy
+matplotlib
+librosa
+pyaudio
+smbus2
+RPi.GPIO
+mpu6050-raspberrypi
+mlx90614
+schedule
+pickle-mixin
